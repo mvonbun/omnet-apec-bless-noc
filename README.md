@@ -1,2 +1,5 @@
-# omnet-apec-bless-noc
-Omnet++ implementation of a bufferless network-on-chip with improved acknowledgement prioritization through erasure coding.
+# APEC: Improved Acknowledgement Prioritization through Erasure Coding in Bufferless NoCs
+
+Omnet++ model of a bufferless network-on-chip (NoC) with improved acknowledgement prioritization through erasure coding.
+
+## Getting Started
