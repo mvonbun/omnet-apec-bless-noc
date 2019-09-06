@@ -1,0 +1,2 @@
+#!/bin/bash
+cd src && opp_makemake -f --deep -o apec_bless_noc
